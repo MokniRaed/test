@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T19:20:53.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="e15GZtbSeQ_FrV7HfxjE" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T19:27:19.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="twaKa6CML0UjVaN6gd3h" version="22.1.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="7973.5" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8877.5" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           <mxGeometry x="597" y="185.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4" value="وحدة التّدقيق الدّاخلي&#xa; (إدارة)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="901.9999999999998" y="332.75" width="189" height="80" as="geometry" />
+          <mxGeometry x="901.9999999999998" y="452.75" width="189" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="4" edge="1">
           <mxGeometry x="337" y="215.5" width="100" height="100" as="geometry">
@@ -101,7 +101,7 @@
           <mxGeometry x="4570" y="332.75" width="189" height="80" as="geometry" />
         </mxCell>
         <mxCell id="12" value="الكتابة القارّة للجان الصّفقات&#xa; (إدارة)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="308.9999999999999" y="332.75" width="189" height="80" as="geometry" />
+          <mxGeometry x="308.9999999999999" y="452.75" width="189" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qrLLP5ViFst0h06Zl4Ro-474" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="13" target="qrLLP5ViFst0h06Zl4Ro-422">
           <mxGeometry relative="1" as="geometry" />
@@ -200,38 +200,38 @@
         </mxCell>
         <mxCell id="100" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="12" target="25" edge="1">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-276" y="235.5" as="sourcePoint" />
-            <mxPoint x="-176" y="135.5" as="targetPoint" />
+            <mxPoint x="-276" y="355.5" as="sourcePoint" />
+            <mxPoint x="-176" y="255.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="101" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" source="12" target="30" edge="1">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-276" y="235.5" as="sourcePoint" />
-            <mxPoint x="-176" y="135.5" as="targetPoint" />
+            <mxPoint x="-276" y="355.5" as="sourcePoint" />
+            <mxPoint x="-176" y="255.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="102" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="12" target="33" edge="1">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-276" y="235.5" as="sourcePoint" />
-            <mxPoint x="-176" y="135.5" as="targetPoint" />
+            <mxPoint x="-276" y="355.5" as="sourcePoint" />
+            <mxPoint x="-176" y="255.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4" target="49" edge="1">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-483" y="235.5" as="sourcePoint" />
-            <mxPoint x="-383" y="135.5" as="targetPoint" />
+            <mxPoint x="-483" y="355.5" as="sourcePoint" />
+            <mxPoint x="-383" y="255.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="105" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="44" edge="1">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-483" y="235.5" as="sourcePoint" />
-            <mxPoint x="-383" y="135.5" as="targetPoint" />
+            <mxPoint x="-483" y="355.5" as="sourcePoint" />
+            <mxPoint x="-383" y="255.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="52" edge="1">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-483" y="235.5" as="sourcePoint" />
-            <mxPoint x="-383" y="135.5" as="targetPoint" />
+            <mxPoint x="-483" y="355.5" as="sourcePoint" />
+            <mxPoint x="-383" y="255.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qrLLP5ViFst0h06Zl4Ro-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="qrLLP5ViFst0h06Zl4Ro-127" target="qrLLP5ViFst0h06Zl4Ro-288">
